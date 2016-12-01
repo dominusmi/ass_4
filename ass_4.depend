@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480596942 source:c:\users\barp\documents\programming\ass_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
